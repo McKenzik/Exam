@@ -22,6 +22,7 @@ void main()
 		printf("Вы богаты?\n");
 		scanf("%d", &m);
 
+
 		if (m == 1)
 		{
 			printf("Вы любите отрываться?\n");
